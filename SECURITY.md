@@ -1,3 +1,6 @@
+
+
+<img width="640" height="640" alt="1Projet_Dharma_favico " src="https://github.com/user-attachments/assets/b2f1e126-bc42-4aec-88ef-147ec7b073ab" />
 # Security Policy
 
 ## Reporting a Vulnerability
